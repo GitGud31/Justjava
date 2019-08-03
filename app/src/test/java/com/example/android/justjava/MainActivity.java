@@ -17,7 +17,7 @@ import android.widget.TextView;
  */
 public class MainActivity extends AppCompatActivity {
 
-    int quantity = 0;
+    int quantity = 5;
     int ChocolatePrice = 0;
     int WhippedCreamPrice = 0;
     String GlobalPriceMessge;
